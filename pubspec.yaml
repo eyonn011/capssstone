@@ -196,6 +196,134 @@ flutter:
     - assets/spotthedif/level_4_clothes_theme/9.png
     - assets/spotthedif/level_4_clothes_theme/10 diff.png
     - assets/spotthedif/level_4_clothes_theme/10.png
+    # level 5
+    - assets/spotthedif/level_5_cups_theme/1 diff.png
+    - assets/spotthedif/level_5_cups_theme/1.png
+    - assets/spotthedif/level_5_cups_theme/2 diff.png
+    - assets/spotthedif/level_5_cups_theme/2.png
+    - assets/spotthedif/level_5_cups_theme/3 diff.png
+    - assets/spotthedif/level_5_cups_theme/3.png
+    - assets/spotthedif/level_5_cups_theme/4 diff.png
+    - assets/spotthedif/level_5_cups_theme/4.png
+    - assets/spotthedif/level_5_cups_theme/5 diff.png
+    - assets/spotthedif/level_5_cups_theme/5.png
+    - assets/spotthedif/level_5_cups_theme/6 diff.png
+    - assets/spotthedif/level_5_cups_theme/6.png
+    - assets/spotthedif/level_5_cups_theme/7 diff.png
+    - assets/spotthedif/level_5_cups_theme/7.png
+    - assets/spotthedif/level_5_cups_theme/8 diff.png
+    - assets/spotthedif/level_5_cups_theme/8.png
+    - assets/spotthedif/level_5_cups_theme/9 diff.png
+    - assets/spotthedif/level_5_cups_theme/9.png
+    - assets/spotthedif/level_5_cups_theme/10 diff.png
+    - assets/spotthedif/level_5_cups_theme/10.png
+    # level 6
+    - assets/spotthedif/level_6_dishes_theme/1 diff.png
+    - assets/spotthedif/level_6_dishes_theme/1.png
+    - assets/spotthedif/level_6_dishes_theme/2 diff.png
+    - assets/spotthedif/level_6_dishes_theme/2.png
+    - assets/spotthedif/level_6_dishes_theme/3 diff.png
+    - assets/spotthedif/level_6_dishes_theme/3.png
+    - assets/spotthedif/level_6_dishes_theme/4 diff.png
+    - assets/spotthedif/level_6_dishes_theme/4.png
+    - assets/spotthedif/level_6_dishes_theme/5 diff.png
+    - assets/spotthedif/level_6_dishes_theme/5.png
+    - assets/spotthedif/level_6_dishes_theme/6 diff.png
+    - assets/spotthedif/level_6_dishes_theme/6.png
+    - assets/spotthedif/level_6_dishes_theme/7 diff.png
+    - assets/spotthedif/level_6_dishes_theme/7.png
+    - assets/spotthedif/level_6_dishes_theme/8 diff.png
+    - assets/spotthedif/level_6_dishes_theme/8.png
+    - assets/spotthedif/level_6_dishes_theme/9 diff.png
+    - assets/spotthedif/level_6_dishes_theme/9.png
+    - assets/spotthedif/level_6_dishes_theme/10 diff.png
+    - assets/spotthedif/level_6_dishes_theme/10.png
+    # level 7
+    - assets/spotthedif/level_7_dogs_theme/1 diff.png
+    - assets/spotthedif/level_7_dogs_theme/1.png
+    - assets/spotthedif/level_7_dogs_theme/2 diff.png
+    - assets/spotthedif/level_7_dogs_theme/2.png
+    - assets/spotthedif/level_7_dogs_theme/3 diff.png
+    - assets/spotthedif/level_7_dogs_theme/3.png
+    - assets/spotthedif/level_7_dogs_theme/4 diff.png
+    - assets/spotthedif/level_7_dogs_theme/4.png
+    - assets/spotthedif/level_7_dogs_theme/5 diff.png
+    - assets/spotthedif/level_7_dogs_theme/5.png
+    - assets/spotthedif/level_7_dogs_theme/6 diff.png
+    - assets/spotthedif/level_7_dogs_theme/6.png
+    - assets/spotthedif/level_7_dogs_theme/7 diff.png
+    - assets/spotthedif/level_7_dogs_theme/7.png
+    - assets/spotthedif/level_7_dogs_theme/8 diff.png
+    - assets/spotthedif/level_7_dogs_theme/8.png
+    - assets/spotthedif/level_7_dogs_theme/9 diff.png
+    - assets/spotthedif/level_7_dogs_theme/9.png
+    - assets/spotthedif/level_7_dogs_theme/10 diff.png
+    - assets/spotthedif/level_7_dogs_theme/10.png
+    # level 8
+    - assets/spotthedif/level_8_house_theme/1 diff.png
+    - assets/spotthedif/level_8_house_theme/1.png
+    - assets/spotthedif/level_8_house_theme/2 diff.png
+    - assets/spotthedif/level_8_house_theme/2.png
+    - assets/spotthedif/level_8_house_theme/3 diff.png
+    - assets/spotthedif/level_8_house_theme/3.png
+    - assets/spotthedif/level_8_house_theme/4 diff.png
+    - assets/spotthedif/level_8_house_theme/4.png
+    - assets/spotthedif/level_8_house_theme/5 diff.png
+    - assets/spotthedif/level_8_house_theme/5.png
+    - assets/spotthedif/level_8_house_theme/6 diff.png
+    - assets/spotthedif/level_8_house_theme/6.png
+    - assets/spotthedif/level_8_house_theme/7 diff.png
+    - assets/spotthedif/level_8_house_theme/7.png
+    - assets/spotthedif/level_8_house_theme/8 diff.png
+    - assets/spotthedif/level_8_house_theme/8.png
+    - assets/spotthedif/level_8_house_theme/9 diff.png
+    - assets/spotthedif/level_8_house_theme/9.png
+    - assets/spotthedif/level_8_house_theme/10 diff.png
+    - assets/spotthedif/level_8_house_theme/10.png
+    # level 9
+    - assets/spotthedif/level_9_shoes_theme/1 diff.png
+    - assets/spotthedif/level_9_shoes_theme/1.png
+    - assets/spotthedif/level_9_shoes_theme/2 diff.png
+    - assets/spotthedif/level_9_shoes_theme/2.png
+    - assets/spotthedif/level_9_shoes_theme/3 diff.png
+    - assets/spotthedif/level_9_shoes_theme/3.png
+    - assets/spotthedif/level_9_shoes_theme/4 diff.png
+    - assets/spotthedif/level_9_shoes_theme/4.png
+    - assets/spotthedif/level_9_shoes_theme/5 diff.png
+    - assets/spotthedif/level_9_shoes_theme/5.png
+    - assets/spotthedif/level_9_shoes_theme/6 diff.png
+    - assets/spotthedif/level_9_shoes_theme/6.png
+    - assets/spotthedif/level_9_shoes_theme/7 diff.png
+    - assets/spotthedif/level_9_shoes_theme/7.png
+    - assets/spotthedif/level_9_shoes_theme/8 diff.png
+    - assets/spotthedif/level_9_shoes_theme/8.png
+    - assets/spotthedif/level_9_shoes_theme/9 diff.png
+    - assets/spotthedif/level_9_shoes_theme/9.png
+    - assets/spotthedif/level_9_shoes_theme/10 diff.png
+    - assets/spotthedif/level_9_shoes_theme/10.png
+    # level 10
+    - assets/spotthedif/level_10_trees_theme/1 diff.png
+    - assets/spotthedif/level_10_trees_theme/1.png
+    - assets/spotthedif/level_10_trees_theme/2 diff.png
+    - assets/spotthedif/level_10_trees_theme/2.png
+    - assets/spotthedif/level_10_trees_theme/3 diff.png
+    - assets/spotthedif/level_10_trees_theme/3.png
+    - assets/spotthedif/level_10_trees_theme/4 diff.png
+    - assets/spotthedif/level_10_trees_theme/4.png
+    - assets/spotthedif/level_10_trees_theme/5 diff.png
+    - assets/spotthedif/level_10_trees_theme/5.png
+    - assets/spotthedif/level_10_trees_theme/6 diff.png
+    - assets/spotthedif/level_10_trees_theme/6.png
+    - assets/spotthedif/level_10_trees_theme/7 diff.png
+    - assets/spotthedif/level_10_trees_theme/7.png
+    - assets/spotthedif/level_10_trees_theme/8 diff.png
+    - assets/spotthedif/level_10_trees_theme/8.png
+    - assets/spotthedif/level_10_trees_theme/9 diff.png
+    - assets/spotthedif/level_10_trees_theme/9.png
+    - assets/spotthedif/level_10_trees_theme/10 diff.png
+    - assets/spotthedif/level_10_trees_theme/10.png
+
+    
     
 
   # An image asset can refer to one or more resolution-specific "variants", see

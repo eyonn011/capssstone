@@ -1,6 +1,12 @@
+import 'package:capstone_focus/games/spot_the_difference/levels/level_10_trees_theme/level10_1_screen.dart';
 import 'package:capstone_focus/games/spot_the_difference/levels/level_2_cars_theme/level2_1_screen.dart';
 import 'package:capstone_focus/games/spot_the_difference/levels/level_3_cats_theme/level3_1_screen.dart';
 import 'package:capstone_focus/games/spot_the_difference/levels/level_4_clothes_theme/level4_1_screen.dart';
+import 'package:capstone_focus/games/spot_the_difference/levels/level_5_cups_theme/level5_1_screen.dart';
+import 'package:capstone_focus/games/spot_the_difference/levels/level_6_dishes_theme/level6_1_screen.dart';
+import 'package:capstone_focus/games/spot_the_difference/levels/level_7_dogs_theme/level7_1_screen.dart';
+import 'package:capstone_focus/games/spot_the_difference/levels/level_8_house_theme/level8_1_screen.dart';
+import 'package:capstone_focus/games/spot_the_difference/levels/level_9_shoes_theme/level9_1_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
@@ -159,7 +165,7 @@ class _SpotTheDiffLevelSelectState extends State<SpotTheDiffLevelSelect> {
                                                 context,
                                                 MaterialPageRoute(
                                                   builder: (context) =>
-                                                      level4_1_screen(),
+                                                      level10_1_screen(),
                                                 ),
                                               );
                                             } else if (i == 2) {
@@ -168,7 +174,7 @@ class _SpotTheDiffLevelSelectState extends State<SpotTheDiffLevelSelect> {
                                                 context,
                                                 MaterialPageRoute(
                                                   builder: (context) =>
-                                                      level4_1_screen(),
+                                                      level10_1_screen(),
                                                 ),
                                               );
                                             }
